@@ -30,9 +30,9 @@ Albert-Ludwigs-Universität Freiburg
 \[In progress\]
 
 ## Leseliste
-- Pro Git; Scott Chacon, Ben Straub 
-- Clean Code; Robert C. Martin
-- Deep Learning with Python; François Chollet
+- Pro Git; Scott Chacon, Ben Straub \[In progress\]
+- Clean Code; Robert C. Martin \[In progress\]
+- Deep Learning with Python; François Chollet \[In progress\]
 - Lineare Algebra; Gerd Fischer
 - Tutorium Analysis 1 und Lineara Algebra 1; Florian Modler, Martin Kreh
 - Tutorium Analysis 2 und Lineara Algebra 2; Florian Modler, Martin Kreh
