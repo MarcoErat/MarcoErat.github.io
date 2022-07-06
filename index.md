@@ -32,6 +32,8 @@ Albert-Ludwigs-Universität Freiburg
 ## Leseliste
 - Pro Git; Scott Chacon, Ben Straub \[In progress\]
 - Clean Code; Robert C. Martin \[In progress\]
+- Design Patterns - Elements of reusable object-oriented software; Erich Gamma, Richard Helm, Ralph Johnson, John Vlissides
+- The Pragmatic Programmer; Andy Hunt, Dave Thomas
 - Deep Learning with Python; François Chollet \[In progress\]
 - Lineare Algebra; Gerd Fischer
 - Tutorium Analysis 1 und Lineara Algebra 1; Florian Modler, Martin Kreh
