@@ -2,11 +2,6 @@
 
 \[For english version please see below\]
 
-## Werdegang
-### Berufliche Stationen
-- Softwareentwickler bis heute, seit April 2022, Meona GmbH
-- Studentische Hilfskraft bis April 2022, seit März 2000, Universitätsklinikum Freiburg
-
 ### Studium
 Informatik bis März 2022
 Albert-Ludwigs-Universität Freiburg
@@ -18,13 +13,12 @@ Albert-Ludwigs-Universität Freiburg
 - Node.js
 
 ### Applikationsentwicklung
-- Windows Forms (C#)
+- C#
 - Java
 
 ### Weitere
 - Python
-- C++
-- SQL
+- SQL (MariaDB, MSSQL)
 
 ## Projekte
 \[In progress\]
