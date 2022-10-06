@@ -3,7 +3,7 @@
 \[For english version please see below\]
 
 ### Studium
-Informatik bis März 2022
+Informatik B.Sc. bis März 2022
 Albert-Ludwigs-Universität Freiburg
 
 ## Fähigkeiten und Kenntnisse
