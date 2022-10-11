@@ -29,6 +29,7 @@ Albert-Ludwigs-Universität Freiburg.
 - Implementing Domain-driven Design; Vaughn Vernon
 - The Pragmatic Programmer; Andy Hunt, Dave Thomas
 - Deep Learning with Python; François Chollet \[In progress\]
+- Modern Software Engineering; David Farley
 - Lineare Algebra; Gerd Fischer
 - Tutorium Analysis 1 und Lineara Algebra 1; Florian Modler, Martin Kreh
 - Tutorium Analysis 2 und Lineara Algebra 2; Florian Modler, Martin Kreh
