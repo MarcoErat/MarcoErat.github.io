@@ -21,7 +21,7 @@ Albert-Ludwigs-Universität Freiburg.
 - SQL (MariaDB, MSSQL)
 
 ## Projekte
-\[In progress\]
+Still \[In progress\]
 
 ## Leseliste
 - Pro Git; Scott Chacon, Ben Straub \[In progress\]
