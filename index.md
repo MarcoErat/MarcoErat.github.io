@@ -8,7 +8,7 @@ Albert-Ludwigs-Universität Freiburg.
 
 ## Fähigkeiten und Kenntnisse
 ### Webentwicklung
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, React
 - PHP
 - Node.js
 
