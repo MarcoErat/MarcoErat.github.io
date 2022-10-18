@@ -4,7 +4,7 @@
 
 ### Studium
 Informatik B.Sc. bis März 2022
-Albert-Ludwigs-Universität Freiburg.
+Albert-Ludwigs-Universität Freiburg
 
 ## Fähigkeiten und Kenntnisse
 ### Webentwicklung
