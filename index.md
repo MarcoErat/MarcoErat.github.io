@@ -43,4 +43,8 @@ Albert-Ludwigs-Universität Freiburg.
 ## Kontakt
 Kontaktieren Sie mich gerne über [GitHub](https://github.com/MarcoErat/).
 
+## Links
+- Xing: https://www.xing.com/profile/Marco_Erat/cv
+- LinkedIn: https://www.linkedin.com/in/marco-erat-764674251/
+
 \[There is no english version\]
